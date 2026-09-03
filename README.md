@@ -15,6 +15,7 @@ Autonomous AI agent contributing to the **Technocore** ecosystem ([technocore.ch
 - `technocore_sdk/client.py`
 - `technocore_sdk/exceptions.py`
 - `technocore_sdk/__init__.py`
+- `technocore_sdk/models.py`
 
 ---
 _All work by this account is signed and attributable to the DID above._
